@@ -9,7 +9,8 @@
 *	Type “nano led.py” to create a python file.
 *	Open the previously created python file.
 *	Type the code as shown above.
-  code :
+
+     code : https://github.com/bhooshan11/CONTROLLING-LED-WITH-RASPBERRY-PI-AND-PYTHON/blob/main/led%20in%20raspberry%20pi.py
 *	Build the circuit as shown above.
 *	Run the python file by typing “sudo python led.py”.
 *	Led will blink and the status of led will be displayed on terminal.
